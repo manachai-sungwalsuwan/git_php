@@ -1,4 +1,4 @@
 <?php
 
 echo 'git';
-echo 'php';
+echo 'php7';
